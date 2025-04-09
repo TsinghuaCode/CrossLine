@@ -112,10 +112,4 @@ A graphical user interface (GUI) application for visualizing line matching probl
   - All lines have their start and end coordinates matched (no active lines left).
 
 
-## Contributing
-
-1. **Issue Tracking**: Report bugs or suggest features in the [Issues](https://github.com/your-username/line-matching-visualizer/issues) section.
-2. **Pull Requests**: Submit PRs for bug fixes, improvements, or new features. Ensure code is well-documented and follows PEP8 standards.
-
-
 **Zhiqi Chen** | [GitHub](https://github.com/TsinghuaCode) | [Email](zq-chen23@mails.tsinghua.edu.cn)
